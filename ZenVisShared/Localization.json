@@ -1,0 +1,452 @@
+{
+  "Key": {
+    "DE": "",
+    "EN": "",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "grpGeneral": {
+    "DE": "Allgemein",
+    "EN": "General",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblGothic1": {
+    "DE": "Gothic:",
+    "EN": "Gothic:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblGothic2": {
+    "DE": "Gothic 2 - Die Nacht des Raben:",
+    "EN": "Gothic 2 - Night of the Raven:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblBlender": {
+    "DE": "Blender v2.75 (oder höher) mit KrxImpExp:",
+    "EN": "Blender v2.75 (or higher) with KrxImpExp:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblOutput": {
+    "DE": "Ausgabe:",
+    "EN": "Output:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblVersion": {
+    "DE": "Version:",
+    "EN": "Version:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "grpImport": {
+    "DE": "Import",
+    "EN": "Import",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblZSlang": {
+    "DE": "zSlang v1.0:",
+    "EN": "zSlang v1.0:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "btnImport": {
+    "DE": "Importieren",
+    "EN": "Import",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "grpExport": {
+    "DE": "Export",
+    "EN": "Export",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblGothicSourcer": {
+    "DE": "GothicSourcer v3.14:",
+    "EN": "GothicSourcer v3.14:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblMergeObjects": {
+    "DE": "Objekte zusammenfügen:",
+    "EN": "Merge objects:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "MergeModeNone": {
+    "DE": "Keine",
+    "EN": "None",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "MergeModeName": {
+    "DE": "Name",
+    "EN": "Name",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "MergeModeAll": {
+    "DE": "Alle",
+    "EN": "All",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "chbMergeFiles": {
+    "DE": "Dateien zusammenfügen",
+    "EN": "Merge files into one",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "chbSkipInvisible": {
+    "DE": "Unsichtbare Objekte auslassen",
+    "EN": "Skip invisible objects",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "chbExportLevel": {
+    "DE": "Levelmesh exportieren",
+    "EN": "Export level mesh",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblExportAs": {
+    "DE": "Export als:",
+    "EN": "Export as:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "btnExport": {
+    "DE": "Exportieren",
+    "EN": "Export",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblType": {
+    "DE": "Typ:",
+    "EN": "Type:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "lblProperties": {
+    "DE": "Eigenschaften:",
+    "EN": "Properties:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "btnClose": {
+    "DE": "Schließen",
+    "EN": "Close",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "Error": {
+    "DE": "Fehler",
+    "EN": "Error",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ChooseGothic1Directory": {
+    "DE": "Bitte wählen Sie das Installationsverzeichnis von 'Gothic' aus:",
+    "EN": "Please choose the install directory of 'Gothic':",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ChooseGothic2Directory": {
+    "DE": "Bitte wählen Sie das Installationsverzeichnis von 'Gothic 2 - Die Nacht des Raben' aus:",
+    "EN": "Please choose the install directory of 'Gothic 2 - Night of the Raven':",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ChooseGothicSourcerDirectory": {
+    "DE": "Bitte wählen Sie das Installationsverzeichnis von 'GothicSourcer v3.14' aus:",
+    "EN": "Please choose the install directory of 'GothicSourcer v3.14':",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ChooseBlenderDirectory": {
+    "DE": "Bitte wählen Sie das Installationsverzeichnis von 'Blender v2.75 (oder höher) mit KrxImpExp' aus:",
+    "EN": "Please choose the install directory of 'Blender v2.75 (or higher) with KrxImpExp':",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ChooseZSlangDirectory": {
+    "DE": "Bitte wählen Sie das Installationsverzeichnis von 'zSlang v1.0' aus:",
+    "EN": "Please choose the install directory of 'zSlang v1.0':",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ChooseOutputDirectory": {
+    "DE": "Bitte wählen Sie das Ausgabeverzeichnis aus:",
+    "EN": "Please choose the output directory:",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "GothicSourcerVersionMismatch": {
+    "DE": "Die gefundene Version von 'GothicSourcer' ist zu niedrig, bitte aktualisieren Sie das Programm.",
+    "EN": "The version of 'GothicSourcer' is to low, please update the program.",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "BlenderVersionMismatch": {
+    "DE": "Die gefundene Version von 'Blender' ist zu niedrig, bitte aktualisieren Sie das Programm.",
+    "EN": "The version of 'Blender' is to low, please update the program.",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "KrxImpExpNotInstalled": {
+    "DE": "KrxImpExp wurde nicht korrekt installiert. Soll ZenVis versuchen diesen Fehler zu beheben?",
+    "EN": "KrxImpExp wasn't installed correctly. Should ZenVis try to fix this error?",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "KrxImpExpNotFound": {
+    "DE": "KrxImpExp muss installiert und aktiviert sein.",
+    "EN": "KrxImpExp has to be installed and activated.",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "InvalidDirectory": {
+    "DE": "Das gewählte Verzeichnis ist nicht gültig.",
+    "EN": "The chosen directory is invalid.",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ZenIsBinarySafe": {
+    "DE": "'{0}' ist binary-safe, es werden jedoch nur ASCII und Uncompiled ZEN Dateien unterstützt.",
+    "EN": "'{0}' is binary-safe but only ASCII and uncompiled ZEN files are supported.",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ZenNoVisual": {
+    "DE": "'{0}' enthält kein Visual!",
+    "EN": "Couldn't find any visual in '{0}'!",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ZenMissingVisuals": {
+    "DE": "Konnte die OBJ Dateien der folgenden Visuals von '{0}' nicht finden:\n\n{1}",
+    "EN": "Couldn't find the OBJ files of the following visuals in '{0}':\n\n{1}",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ConverterHint": {
+    "DE": "ZenVis kann Animationen (MDL, MDS, MSB und MMB) sowie Meshes (MRM) zu OBJ konvertieren, dazu müssen die fehlenden Dateien im Verzeichnis '_WORK\\DATA\\ANIMS\\_COMPILED' oder '_WORK\\DATA\\MESHES\\_COMPILED' des Spiels vorhanden sein. Möchten Sie es probieren?",
+    "EN": "ZenVis is able to convert animations (MDL, MDS, MSB and MMB) and meshes (MRM) to OBJ, the missing files have to be in the directory '_WORK\\DATA\\ANIMS\\_COMPILED' or '_WORK\\DATA\\MESHES\\_COMPILED' of the game. Would you like to try it?",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ExportAnyway": {
+    "DE": "Möchten Sie den Export dennoch fortsetzen (nicht empfohlen)?",
+    "EN": "Would you like to continue anyway (not recommended)?",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ApplySettingsToAll": {
+    "DE": "Möchten Sie diese Einstellungen für alle Visuals übernehmen?",
+    "EN": "Would you like to apply the current settings to all visuals?",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "BlenderUnknownError": {
+    "DE": "Blender wurde beendet, aber '{0}' existiert nicht. Demnach ist ein unbekannter Fehler aufgetreten.",
+    "EN": "Blender exited but '{0}' doesn't exist, apparently something went wrong.",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "TypeValueError": {
+    "DE": "Der eingegebene Wert passt nicht zum Typ der Eigenschaft.",
+    "EN": "The entered value couldn't be converted to the type of the property.",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  },
+  "ObjectNameInvalid": {
+    "DE": "Der Objektname ist nicht gültig.",
+    "EN": "Invalid object name found.",
+    "RU": "",
+    "PL": "",
+    "CS": "",
+    "RO": "",
+    "IT": "",
+    "ES": ""
+  }
+}
